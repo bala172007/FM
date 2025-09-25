@@ -98,11 +98,11 @@ Calculation
 
 
 
-Frequency Deviation Practical = 
+Frequency Deviation Practical = 2599.09
 
-Modulation Index Practical	= 
+Modulation Index Practical	= 4.21055
 
-Modulation Index Theoretical	=
+Modulation Index Theoretical	=2.0
 
 
 
