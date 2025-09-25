@@ -96,7 +96,8 @@ Tabulation
 
 Calculation
 
-![Uploading WhatsApp Image 2025-09-25 at 10.59.25_dc2237cd.jpg…]()
+![WhatsApp Image 2025-09-25 at 10 59 25_dc2237cd](https://github.com/user-attachments/assets/734ee9c4-f5a0-472d-9f58-8af0edaef596)
+
 
 
 
