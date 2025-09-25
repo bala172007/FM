@@ -105,7 +105,7 @@ Frequency Deviation Practical = 2599.09
 
 Modulation Index Practical	= 4.21055
 
-Modulation Index Theoretical	=5.0
+Modulation Index Theoretical	=5.65
 
 
 
