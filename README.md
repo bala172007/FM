@@ -96,13 +96,15 @@ Tabulation
 
 Calculation
 
+![Uploading WhatsApp Image 2025-09-25 at 10.59.25_dc2237cd.jpg…]()
+
 
 
 Frequency Deviation Practical = 2599.09
 
 Modulation Index Practical	= 4.21055
 
-Modulation Index Theoretical	=2.0
+Modulation Index Theoretical	=5.0
 
 
 
